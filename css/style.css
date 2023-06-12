@@ -170,3 +170,7 @@ header {
 }
 
 /* lưu ý khi sử dụng @media với min width: khi viết những breakpoint nhỏ hơn chúng ta sẽ để cho các breakpoint đó nằm trên cùng và những breakpoint lớn hơn sẽ nằm dưới */
+
+h1 {
+    border: none;
+}
